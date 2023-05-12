@@ -127,6 +127,7 @@ You can deploy this project using:
 👤 **Leslie Gudo**
 
 - GitHub: [@githubhandle](https://github.com/Leeoasis)
+- Twitter: [@twitterhandle](https://twitter.com/gudo_leslie)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leslie-gudo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
