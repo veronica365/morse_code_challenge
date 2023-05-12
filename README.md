@@ -122,7 +122,12 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](https://github.com/BB-Simon)
 - Twitter: [@twitterhandle](https://twitter.com/bb_s_imon)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bb-simon/)**
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bb-simon/)
+
+👤 **Leslie Gudo**
+
+- GitHub: [@githubhandle](https://github.com/Leeoasis)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leslie-gudo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
