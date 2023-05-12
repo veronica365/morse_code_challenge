@@ -118,7 +118,7 @@ You can deploy this project using:
 - GitHub: [@veronica365](https://github.com/veronica365)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/william-sserubiri-veronica/)
 
-**👤 **BB Simon**
+👤 **BB Simon**
 
 - GitHub: [@githubhandle](https://github.com/BB-Simon)
 - Twitter: [@twitterhandle](https://twitter.com/bb_s_imon)
