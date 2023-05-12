@@ -1,4 +1,4 @@
-# Vet clinic
+# Decode Morse coed
 
 In this project, you will create a method to decode the entire message in Morse code, takes a string parameter, and return the string representation. Every word will be separated by 3 spaces.
 
