@@ -10,9 +10,9 @@ def decode_char(char)
 end
 
 def decode_word(word)
-  decoded_message = ''
-  word.split.each { |code| decoded_message += decode_char(code) }
-  decoded_message
+  decoded_word = ''
+  word.split.each { |code| decoded_word += decode_char(code) }
+  decoded_word
 end
 
 def decode_sentence(string)
